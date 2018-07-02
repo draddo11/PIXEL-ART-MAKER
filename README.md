@@ -2,5 +2,5 @@
 Pixel art maker
 
 ##the link 
-https://github.com/draddo11/PIXEL-ART-MAKER
+https://draddo11.github.io/PIXEL-ART-MAKER/.
 
